@@ -1,0 +1,22 @@
+@import "weather-icons.css";
+
+.weather-container{
+    width:150px;
+    text-align: center;
+    background-image: url('yahoo_weather_widget.jpg');
+    border-radius: 15px;
+    border:2px solid;
+}
+
+.weather-current, .weather-type{
+    margin:0;
+}
+
+.wi{
+    font-size: 48px;
+    margin:10px;
+}
+
+.weather-date, .weather-temperature{
+    margin: 10px;
+}
